@@ -29,3 +29,7 @@ if (agent) {
 More
 -----------
 Official Documentation for [kizzy](https://github.com/ded/Kizzy).
+
+LICENSE
+-----------
+MIT
